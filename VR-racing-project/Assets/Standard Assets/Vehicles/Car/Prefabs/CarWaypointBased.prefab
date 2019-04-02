@@ -7041,7 +7041,7 @@ MonoBehaviour:
   m_CentreOfMassOffset: {x: 0, y: 0, z: 0}
   m_MaximumSteerAngle: 50
   m_SteerHelper: 1
-  m_TractionControl: 1
+  m_TractionControl: 0
   m_FullTorqueOverAllWheels: 50000
   m_ReverseTorque: 150
   m_MaxHandbrakeTorque: 100000000
